@@ -7,9 +7,9 @@
 - 名前：MySQL
 - バージョン：？  
 　→確認したところ、raisetech-live8-sample-app内のdatabase.ymlでは5.5.8であったが、  
-![バージョン確認①](./RaiseTech/DBver.check01.png)  
+![バージョン確認①](RaiseTech/git-lecture03/DBver.check01.png)  
 `mysql -u root -p`で起動したmysql内で確認したところ8.0.34と記載があった。  
-![バージョン確認②](./RaiseTech/DBver.check02.png)  
+![バージョン確認②](RaiseTech/git-lecture03/DBver.check02.png)  
 どちらを確認すればよいか分からなかった。  
 
 ## Rails構成管理ツール
